@@ -1,0 +1,24 @@
+.education-sidebar {
+    @extend .experience-sidebar;
+  
+}
+
+.education-sidebar img {
+    padding-top: 2rem;
+    width: 5rem;
+
+}
+
+.education-content {
+   @extend .experience-content;
+    
+}
+
+.education-header {
+    @extend .experience-header;
+ 
+}
+
+.education-wrapper {
+    @extend .experience-wrapper;
+}
