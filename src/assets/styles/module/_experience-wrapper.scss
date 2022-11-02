@@ -1,4 +1,4 @@
-.experience-sidebar {
+.experience-sidebar, %experience-sidebar {
     grid-area: sidebar;
     text-align: center;   
 }
@@ -9,15 +9,15 @@
     
 }
 
-.experience-content {
+.experience-content, %experience-content {
     grid-area: content;
 }
 
-.experience-header {
+.experience-header, %experience-header {
     grid-area: header;
 }
 
-.experience-wrapper {
+.experience-wrapper, %experience-wrapper {
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 10rem auto;

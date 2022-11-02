@@ -1,5 +1,5 @@
 .education-sidebar {
-    @extend .experience-sidebar;
+    @extend %experience-sidebar;
   
 }
 
@@ -10,15 +10,15 @@
 }
 
 .education-content {
-   @extend .experience-content;
+   @extend %experience-content;
     
 }
 
 .education-header {
-    @extend .experience-header;
+    @extend %experience-header;
  
 }
 
 .education-wrapper {
-    @extend .experience-wrapper;
+    @extend %experience-wrapper;
 }
