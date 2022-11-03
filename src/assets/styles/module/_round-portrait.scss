@@ -6,12 +6,19 @@
     z-index: 2;
     top: 3rem;
     left: 12rem;
+
+    img {
+        width: 10rem;
+        height: 10rem;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 4px solid pink;
+    }
 }
 
-.round-portrait img {
-    width: 10rem;
-    height: 10rem;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 4px solid pink;
+@media screen and (max-width: $small-screen-size) {
+    .round-portrait {
+        position: static;
+    }
+
 }

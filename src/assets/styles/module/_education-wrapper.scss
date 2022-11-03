@@ -1,12 +1,10 @@
 .education-sidebar {
     @extend %experience-sidebar;
-  
-}
+    img {
+        padding-top: 2rem;
+        width: 5rem;
 
-.education-sidebar img {
-    padding-top: 2rem;
-    width: 5rem;
-
+    }
 }
 
 .education-content {
@@ -21,21 +19,4 @@
 
 .education-wrapper {
     @extend %experience-wrapper;
-}
-
-.education-wrapper p {
-    margin: 0 0 0.2rem 0;
-    padding: 0;
-    
-}
-
-.education-wrapper h3 {
-    margin-bottom: 0.6rem;
-    padding: 0; 
-}
-
-.education-header p {
-    font-weight: $weight-bold;
-    color: gray;
-
 }

@@ -1,12 +1,14 @@
 .experience-sidebar, %experience-sidebar {
     grid-area: sidebar;
     text-align: center;   
+
+
+    img {
+        padding-top: 2rem;
+        width: 8rem;
+    
 }
 
-.experience-sidebar img {
-    padding-top: 2rem;
-    width: 8rem;
-    
 }
 
 .experience-content, %experience-content {
@@ -16,6 +18,12 @@
 .experience-header, %experience-header {
     grid-area: header;
     margin-bottom: 0.6rem;
+
+    p {
+        font-weight: $weight-bold;
+        color: grayscale($color: $secondary-bg-color)
+
+    }
 }
 
 .experience-wrapper, %experience-wrapper {
@@ -26,21 +34,18 @@
         "sidebar header"
         "sidebar content";
     margin-bottom: 1rem;
-}
 
-.experience-wrapper p {
-    margin: 0 0 0.2rem 0;
-    padding: 0;
-    
-}
 
-.experience-wrapper h3 {
-    margin-bottom: 0.6rem;
-    padding: 0; 
-}
+    p {
+        margin: 0 0 0.2rem 0;
+        padding: 0;
+        
+    }
 
-.experience-header p {
-    font-weight: $weight-bold;
-    color: gray;
+    h3 {
+        margin-bottom: 0.6rem;
+        padding: 0; 
+    }
 
+   
 }

@@ -27,10 +27,6 @@ article {
   padding: .6rem 2rem;
 }
 
-.l-header {
-  position: sticky;
-}
-
 .l-main-picture {
   width: 100%;
   height: 24rem;
@@ -60,26 +56,11 @@ article {
   opacity: .7;
 }
 
-.footer {
-  color: #fff;
-  height: 8rem;
-  background-color: #000;
-}
-
-.social-network-links {
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-}
-
-.social-network-links img {
-  width: 4rem;
-  margin: 1rem;
-}
-
-.social-network-links img:hover {
-  opacity: .7;
+@media screen and (max-width: 800px) {
+  .header {
+    height: 100%;
+    flex-direction: column;
+  }
 }
 
 .carousel {
@@ -148,7 +129,7 @@ article {
   grid-area: sidebar;
 }
 
-.experience-sidebar img {
+.experience-sidebar img, .education-sidebar img {
   width: 8rem;
   padding-top: 2rem;
 }
@@ -162,6 +143,11 @@ article {
   margin-bottom: .6rem;
 }
 
+.experience-header p, .education-header p {
+  color: #bebebe;
+  font-weight: 600;
+}
+
 .experience-wrapper, .education-wrapper {
   grid-gap: 10px;
   grid-template-columns: 10rem auto;
@@ -171,39 +157,19 @@ article {
   display: grid;
 }
 
-.experience-wrapper p {
+.experience-wrapper p, .education-wrapper p {
   margin: 0 0 .2rem;
   padding: 0;
 }
 
-.experience-wrapper h3 {
+.experience-wrapper h3, .education-wrapper h3 {
   margin-bottom: .6rem;
   padding: 0;
-}
-
-.experience-header p {
-  color: gray;
-  font-weight: 600;
 }
 
 .education-sidebar img {
   width: 5rem;
   padding-top: 2rem;
-}
-
-.education-wrapper p {
-  margin: 0 0 .2rem;
-  padding: 0;
-}
-
-.education-wrapper h3 {
-  margin-bottom: .6rem;
-  padding: 0;
-}
-
-.education-header p {
-  color: gray;
-  font-weight: 600;
 }
 
 .round-portrait {
@@ -221,8 +187,36 @@ article {
   border-radius: 50%;
 }
 
+@media screen and (max-width: 800px) {
+  .round-portrait {
+    position: static;
+  }
+}
+
 .other-data-list li {
   margin-bottom: 1rem;
+}
+
+.footer {
+  color: #fff;
+  height: 8rem;
+  background-color: #000;
+}
+
+.footer .social-network-links {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.footer .social-network-links img {
+  width: 4rem;
+  margin: 1rem;
+}
+
+.footer .social-network-links img:hover {
+  opacity: .7;
 }
 
 .hightlight-bg-color-2 {

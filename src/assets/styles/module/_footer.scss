@@ -2,22 +2,21 @@
     background-color: black;
     color: white;
     height: 8rem;
-}
 
-.social-network-links {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+        .social-network-links {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
 
-}
+        img {
+            width: 4rem;
 
-.social-network-links img {
-    width: 4rem;
+            margin: 1rem;
+        }
 
-    margin: 1rem;
-}
-
-.social-network-links img:hover {
-    opacity: 0.7;
+        img:hover {
+            opacity: 0.7;
+        }
+    }
 }
