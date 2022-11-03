@@ -21,7 +21,7 @@
 
     p {
         font-weight: $weight-bold;
-        color: grayscale($color: $secondary-bg-color)
+        color: grayscale($color: $primary-hightlight-bg-color);
 
     }
 }
