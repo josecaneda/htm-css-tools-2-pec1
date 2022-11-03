@@ -46,7 +46,7 @@
 92C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\ToBigInt64.js133118095525199036 0
 70C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\mdn-data133118095235273962 1
 72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\fs133118095182872580 1
-53C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist133119737659034085 1
+53C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist133119744458702043 1
 95C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\postcss-custom-media\package.json133118142263879201 0
 109C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-prefers-color-scheme\dist\browser-global.js133118142273544753 0
 100C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\utils\getAtRuleParams.js133118095271788669 0
@@ -130,7 +130,7 @@
 74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\yaml\util.js133118095283610092 0
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\markdown-ansi\package.json133118095061374287 0
 132C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\sharp\vendor\8.11.3\win32-x64\include\pango-1.0\pango\pango-renderer.h132734448000000000 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-03.69880b6f.webp133119721400585893 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-03.69880b6f.webp133119744147590617 0
 85C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\browserslist\error.d.ts133118142276054723 0
 71C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\immutable133118095163292563 1
 76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\src\assets\scripts\slick.js133112817850119954 0
@@ -293,7 +293,7 @@
 80C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\src\assets\images\logo-sica.png133116292352813767 0
 90C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\sass\types\logger\index.d.ts133118095310284600 0
 76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\load-json-file133118095024840775 1
-98C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\src\assets\styles\module\_experience-wrapper.scss133119720297921503 0
+98C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\src\assets\styles\module\_experience-wrapper.scss133119744454712059 0
 73C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\yaml\seq.js133118095256608446 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\RegExpCreate.js133118095516351019 0
 89C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\resolve\test\precedence\aaa133118095301673136 1
@@ -457,7 +457,7 @@
 85C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\unbox-primitive\.github133118095142528273 1
 95C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\mdn-data\css\syntaxes.schema.json133118095202254410 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\jquery\src\attributes\support.js133118095361325168 0
-73C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.9a23c0d3.woff133119721400396044 0
+73C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.9a23c0d3.woff133119744147300626 0
 88C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\src\assets\images\main-pictures-08.webp133112904947585027 0
 72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\strip-ansi133118095042033030 1
 131C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\sharp\vendor\8.11.3\win32-x64\include\pango-1.0\pango\pango-context.h132734448000000000 0
@@ -484,7 +484,7 @@
 68C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@lezer133118094851942566 1
 107C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint-scss\dist\rules\no-duplicate-mixins133118095355282572 1
 69C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel133118094852052562 1
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-08.63ebec41.webp133119721399995880 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-08.63ebec41.webp133119744147230625 0
 91C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2017\IsPromise.js133118095473655076 0
 70C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\read-pkg133118095024510794 1
 87C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\nanoid\async\package.json133118095177592568 0
@@ -2449,7 +2449,7 @@
 121C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint-scss\dist\rules\at-if-closing-brace-newline-after133118095249814549 1
 92C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\mdn-data\css\types.schema.json133118095205604191 0
 114C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\rules\at-rule-disallowed-list\index.js133118095308284302 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-04.a79e7439.webp133119721399985883 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-04.a79e7439.webp133119744147230625 0
 97C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\postcss-initial\lib\rules-fabric.js133118142269034750 0
 93C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\table\dist\src\alignString.d.ts133118095310514325 0
 99C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\uri-js\dist\esnext\regexps-uri.js.map133118095205064189 0
@@ -2924,7 +2924,7 @@
 103C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\caniuse-lite\data\features\wbr-element.js133118142309240596 0
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\tar-fs\test\fixtures133118095182862566 1
 78C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\jquery\README.md133118095369265147 0
-75C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.abdb1b70.js.map133119721401565874 0
+75C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.abdb1b70.js.map133119744147570629 0
 130C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint-scss\dist\rules\at-else-closing-brace-space-after\index.js133118095202174195 0
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\tar-fs\test\index.js133118095166812570 0
 87C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\camelcase-keys\index.d.ts133118095049613089 0
@@ -3515,7 +3515,7 @@
 111C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\resolve\test\module_dir\zmodules\bbb\package.json133118095319994964 0
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\utils\test\input\sourcemap133118095358273194 1
 114C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint-scss\dist\rules\operator-no-newline-before133118095357032563 1
-74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\twitter.39c67e0b.svg133119721400935866 0
+74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\twitter.39c67e0b.svg133119744147310616 0
 106C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\postcss-resolve-nested-selector\package.json133118094963385573 0
 78C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\nanoid\README.md133118095190822590 0
 106C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\utils\declarationValueIndex.js133118095235994501 0
@@ -3553,7 +3553,7 @@
 117C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133118095176022570 0
 140C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint-scss\dist\rules\function-unquote-no-unquoted-strings-inside\index.js133118095319874917 0
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\mdn-data\css\selectors.schema.json133118095195902554 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-01.6406140d.webp133119721400435897 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-01.6406140d.webp133119744147440637 0
 93C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\slick-carousel\slick\slick.less133118095190402682 0
 84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\fs\src\find.js133118095032521410 0
 105C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\rules\selector-nested-pattern133118095394327880 1
@@ -3896,7 +3896,7 @@
 92C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\ajv\lib\standalone\instance.ts133118095448826407 0
 105C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\utils\eachDeclarationBlock.js133118095240058054 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2019\IsExtensible.js133118095466584228 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-06.97728758.webp133119721399995880 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-06.97728758.webp133119744147230625 0
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\spdx-correct\LICENSE133118094962035589 0
 84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-regex\.editorconfig133118094966137261 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\IsExtensible.js133118095472375230 0
@@ -4107,7 +4107,7 @@
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\postcss-nesting\dist133118142276184737 1
 110C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\rules\comment-word-disallowed-list133118095359844134 1
 75C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\lodash\gte.js133118095457118173 0
-76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.3377c607.css.map133119737659024095 0
+76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.3377c607.css.map133119744458692071 0
 102C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\rules\custom-media-pattern133118095360354128 1
 115C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\stylelint\lib\rules\custom-property-empty-line-before133118095360734287 1
 127C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\sharp\vendor\8.11.3\win32-x64\include\freetype2\freetype\ftgasp.h132734448000000000 0
@@ -8209,7 +8209,7 @@
 102C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\Number\sameValueZero.js133118095517200999 0
 84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\lodash\fp\identical.js133118095457338055 0
 83C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\lodash\fp\includes.js133118095457388059 0
-78C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\ajax-loader.d5f54670.gif133119721400375901 0
+78C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\ajax-loader.d5f54670.gif133119744147300626 0
 87C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\lodash\fp\includesFrom.js133118095457498047 0
 136C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133118095260879031 0
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\lodash\fp\indexOf.js133118095457528059 0
@@ -8748,7 +8748,7 @@
 81C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\isexe\test\basic.js133118095130768371 0
 86C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-weakref\.eslintignore133118094966608862 0
 82C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-weakref\.eslintrc133118094980125287 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-02.53a0a926.webp133119721400015891 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-02.53a0a926.webp133119744147320622 0
 80C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-weakref\.github133118095141988283 1
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2019\HasOwnProperty.js133118095450316368 0
 92C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\msFromTime.js133118095498771836 0
@@ -8785,7 +8785,7 @@
 88C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\file-entry-cache\README.md133118095054593159 0
 104C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2021\FromPropertyDescriptor.js133118095407911597 0
 78C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-regex\LICENSE133118095046893031 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.71888017.ttf133119721399965922 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.71888017.ttf133119744146740644 0
 83C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-regex\package.json133118095125643087 0
 80C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-regex\README.md133118095145838259 0
 84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\is-regex\test\index.js133118095082107008 0
@@ -9471,7 +9471,7 @@
 95C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\SameValueZero.js133118095517210996 0
 89C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\ajv\dist\runtime\re2.js.map133118095391767892 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\StringCreate.js133118095523239046 0
-71C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.abdb1b70.js133119721401525881 0
+71C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.abdb1b70.js133119744147490619 0
 101C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@csstools\postcss-unset-value\README.md133118142273434724 0
 102C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2022\StringGetOwnProperty.js133118095523389041 0
 84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-tree\lib\tokenizer133118095364925159 1
@@ -10086,7 +10086,7 @@
 89C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\MakeDay.js133118095496152022 0
 88C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\modulo.js133118095497841788 0
 95C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\MonthFromTime.js133118095498211785 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-05.51c6b069.webp133119721400495893 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-05.51c6b069.webp133119744147510608 0
 109C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@csstools\postcss-progressive-custom-properties133118142275094743 1
 92C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\msFromTime.js133118095498681788 0
 104C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\ObjectDefineProperties.js133118095499671888 0
@@ -10097,7 +10097,7 @@
 112C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\caniuse-lite\data\features\subresource-bundling.js133118142307690598 0
 91C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\SameValue.js133118095516771008 0
 95C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\SameValueZero.js133118095517091012 0
-76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.2b5ea3ed.css.map133119721401015888 0
+76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.2b5ea3ed.css.map133119744147490619 0
 93C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\SecFromTime.js133118095517220990 0
 85C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\Set.js133118095517351015 0
 97C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\es-abstract\2015\SetFunctionName.js133118095517750998 0
@@ -10364,7 +10364,7 @@
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-what\lib\commonjs\types.d.ts133118095203674235 0
 83C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-tree\CHANGELOG.md133118095368155152 0
 75C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-tree\data133118095366985205 1
-74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\youtube.341ab0bf.svg133119721400935866 0
+74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\youtube.341ab0bf.svg133119744147310616 0
 75C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-tree\dist133118095255777073 1
 132C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133118095305874480 0
 74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\css-tree\lib133118095302674333 1
@@ -12400,7 +12400,7 @@
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\CommittedAsset.js133118095283750115 0
 87C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\index.js133118095308664425 0
 98C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\loadParcelPlugin.js133118095316853104 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.b3794be0.eot133119721399965922 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.b3794be0.eot133119744146100630 0
 96C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\PackagerRunner.js133118095321235484 0
 88C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\Parcel.js133118095355622534 0
 94C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\@parcel\core\lib\ParcelConfig.js133118095357422542 0
@@ -12729,14 +12729,14 @@
 77C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\.bin\terser.ps1133118095530449060 0
 72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\.bin\which133118095530469065 0
 76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\node_modules\.bin\which.ps1133118095530469065 0
-74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\email-4.6b6e45f6.svg133119721400935866 0
-79C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\escudo-uvigo.94ceb04d.png133119721401225983 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.2b5ea3ed.css133119721400975884 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.3377c607.css133119737658994106 0
-64C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.html133119721400975884 0
-76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\instagram.e5d038bf.svg133119721401165903 0
-74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\logo-fp.30540688.png133119721400985883 0
-76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\logo-sica.8902c303.png133119721401225983 0
-84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-07.98a3b850.webp133119721400415897 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.d92f5684.svg133119721401165903 0
-72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\vat69.139b6770.jpg133119721401235885 0
+74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\email-4.6b6e45f6.svg133119744147320622 0
+79C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\escudo-uvigo.94ceb04d.png133119744147300626 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.2b5ea3ed.css133119744147320622 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.3377c607.css133119744458672050 0
+64C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\index.html133119744147320622 0
+76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\instagram.e5d038bf.svg133119744147230625 0
+74C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\logo-fp.30540688.png133119744147340630 0
+76C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\logo-sica.8902c303.png133119744147310616 0
+84C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\main-pictures-07.98a3b850.webp133119744147380613 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\slick.d92f5684.svg133119744147230625 0
+72C:\Users\J\Documents\GitHub\htm-css-tools-2-pec1\dist\vat69.139b6770.jpg133119744147300626 0
