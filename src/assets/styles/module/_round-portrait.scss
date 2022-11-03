@@ -1,8 +1,11 @@
 .round-portrait {
     position: relative;
-    top: -5rem;
-    left: 40rem;
+    // top: -5rem;
+    // left: 40rem;
+    // z-index: 2;
     z-index: 2;
+    top: 3rem;
+    left: 12rem;
 }
 
 .round-portrait img {
